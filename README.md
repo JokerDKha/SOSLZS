@@ -1,21 +1,28 @@
 # SOS-FoMT-LZS
-Tool extract and repack file LZS Story of Season: Friend of Mineral Town (Switch - PC)
+Tool extract disc, LZS file and repack file LZS Story of Season: Friend of Mineral Town (Switch - PC)
 
-How To Use:
+**How To Use:**
 
-Extract:
+Extract: 
 
-Step 1: Copy your lzs file to Folder "lzs-here"
+Step 1: Copy your lzs file to Folder "lzs-here" or Copy your disc file to Folder "disc-here"
 
-Step 2: Run extract.bat 
+Step 2: Run extract.bat and select option 
+(Selection extraction option)
 
-Now file is extract in Folder "File-extract"
+- 1.Extract disc file
+
+- 2.Extract .lzs file
+
+**Now** file is extract in Folder "File-extract"
+- **Option 1:** files will extract to "File-extract\disc-extract"
+- **Option 2:** files will extract to "File-extract\lza-extract"
 
 rePack:
 
-Step 1: Copy your file already edit to Folder "File-extract"
+Step 1: Copy your file already edit to Folder "File-extract\lzs-repack"
 
-Step 2: Run patch.bat
+Step 2: Run pack.bat
 
 Now your new file are repack in Folder "lzs-here"
 
