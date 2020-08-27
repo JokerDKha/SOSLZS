@@ -20,9 +20,9 @@ Step 2: Run extract.bat and select option
 
 rePack:
 
-Step 1: Copy your file already edit to Folder "File-extract"
+Step 1: Copy your file already edit to Folder "File-extract\lzs-repack"
 
-Step 2: Run patch.bat
+Step 2: Run pack.bat
 
 Now your new file are repack in Folder "lzs-here"
 
